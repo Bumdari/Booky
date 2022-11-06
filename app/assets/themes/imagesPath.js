@@ -15,6 +15,8 @@ import File from "../images/file.png";
 import Podcast1 from "../images/podcast1.png";
 import Podcast2 from "../images/podcast2.png";
 import Play from "../images/play.png";
+import Chevron_Right from "../icons/right.png";
+import Chevron_Left from "../icons/left.png";
 
 export default {
     Card,
@@ -33,5 +35,7 @@ export default {
     File,
     Podcast1,
     Podcast2,
-    Play
+    Play,
+    Chevron_Right,
+    Chevron_Left
 }
